@@ -1,6 +1,6 @@
 {
-  "spider": "http://ghost04.vip:32477/api/public/dl/DXgWmlVS",
-  "wallpaper": "https://api.likepoems.com/img/bing",
+  "spider": "https://wget.la/https://raw.githubusercontent.com/leescolbert84-debug/tvbox/main/spider.jar",    
+  "wallpaper": "https://api.likepoems.com/img/bing",  
   "sites": [
     {
       "key": "豆瓣",
@@ -1258,4 +1258,5 @@
   "ads": [
     "static-mozai.4gtv.tv"
   ]
+
 }

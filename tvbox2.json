@@ -1,6 +1,5 @@
 {
   "spider": "https://fastly.jsdelivr.net/gh/leescolbert84-debug/tvbox@main/spider.jar",    
-"爬虫": "https://wget.la/https://raw.githubusercontent.com/leescolbert84-debug/tvbox/main/spider.jar",
   "wallpaper": "https://api.likepoems.com/img/bing",   
   "sites": [
     {
@@ -1261,6 +1260,7 @@
   ]
 
 }
+
 
 
 

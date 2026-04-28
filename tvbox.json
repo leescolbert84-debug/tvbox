@@ -563,24 +563,6 @@
       "changeable": 1
     },
     {
-      "key": "奇优影视",
-      "name": "奇优｜影视",
-      "type": 3,
-      "api": "csp_Qiyou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "小苹果",
-      "name": "小苹果｜影视",
-      "type": 3,
-      "api": "csp_Xpg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "机器人",
       "name": "机器人｜影视",
       "type": 3,
@@ -727,7 +709,7 @@
       "url": "Web"
     },
     {
-      "name": "虾米",
+      "name": "线路一",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -737,7 +719,7 @@
       }
     },
     {
-      "name": "云解",
+      "name": "线路二",
       "type": 0,
       "url": "https://yparse.ik9.cc/index.php?url=",
       "ext": {
@@ -747,7 +729,7 @@
       }
     },
     {
-      "name": "咸鱼",
+      "name": "线路三",
       "type": 0,
       "url": "https://jx.xymp4.cc/?url=",
       "ext": {
@@ -757,7 +739,7 @@
       }
     },
     {
-      "name": "淘片",
+      "name": "线路四",
       "type": 0,
       "url": "https://jx.yparse.com/index.php?url=",
       "ext": {
@@ -767,7 +749,7 @@
       }
     },
     {
-      "name": "冰豆",
+      "name": "线路五",
       "type": 0,
       "url": "https://bd.jx.cn/?url=",
       "ext": {
@@ -777,7 +759,7 @@
       }
     },
     {
-      "name": "七七",
+      "name": "线路六",
       "type": 0,
       "url": "https://jx.77flv.cc/?url=",
       "ext": {
@@ -787,7 +769,7 @@
       }
     },
     {
-      "name": "盘古",
+      "name": "线路七",
       "type": 0,
       "url": "https://www.playm3u8.cn/jiexi.php?url=",
       "ext": {
@@ -797,7 +779,7 @@
       }
     },
     {
-      "name": "夜幕",
+      "name": "线路八",
       "type": 0,
       "url": "https://yemu.xyz/?url=",
       "ext": {

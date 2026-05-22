@@ -42,7 +42,7 @@
     {
       "id": "d97cc518-d1d1-4d2d-871f-45e875d558e4",
       "name": "七七看片",
-      "api": "https://www.5277kp.com//api.php/provide/vod/",
+      "api": "https://www.qiqi23.com//api.php/provide/vod/",
       "playUrl": "",
       "search": 1,
       "group": "切片",
@@ -197,19 +197,6 @@
       "key": "e4024aa2-6190-4910-b20a-877025852dee"
     },
     {
-      "id": "bbc731ba-8b81-40eb-9711-3e2bd190f383",
-      "name": "卧龙资源",
-      "api": "https://wolongzyw.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": 1,
-      "group": "影视",
-      "isActive": true,
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "key": "bbc731ba-8b81-40eb-9711-3e2bd190f383"
-    },
-    {
       "id": "3a5115f7-93ba-47a5-b980-b2ca7168022a",
       "name": "牛牛资源",
       "api": "https://api.niuniuzy.me/api.php/provide/vod/",
@@ -342,7 +329,7 @@
     {
       "id": "9dc3f099-579e-4c8a-904d-e89ed2ef1ef5",
       "name": "非凡资源",
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/",
       "playUrl": "",
       "search": 1,
       "group": "影视",
@@ -357,49 +344,61 @@
     {
       "id": "338096cf-5a25-4b4d-9ecf-8c64df855429",
       "name": "推荐",
-      "url": "https://jx.xmflv.com/?url=",
+      "url": "https://jxjson.icu/neibu.php?url=",
       "isActive": true
     },
     {
       "id": "cf9aa1a9-da13-4fc3-a15a-ac6b396a60e9",
       "name": "臻享",
-      "url": "https://yparse.ik9.cc/index.php?url=",
+      "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=",
       "isActive": true
     },
     {
       "id": "b3fe8885-8491-4702-afbc-27e00457f904",
       "name": "线路1",
-      "url": "https://jx.xymp4.cc/?url=",
+      "url": "https://jx.xmflv.com/?url=",
       "isActive": true
     },
     {
       "id": "530d1b48-11db-4c48-a8f2-b4809e1c4ed7",
       "name": "线路2",
-      "url": "https://jx.yparse.com/index.php?url=",
+      "url": "https://jx.quankan.app/?url=",
       "isActive": true
     },
     {
       "id": "1e76ab2a-2b01-4b6f-8bb5-7281b42d9a29",
       "name": "线路3",
-      "url": "https://bd.jx.cn/?url=",
+      "url": "https://jx.yparse.com/index.php?url=",
       "isActive": true
     },
     {
       "id": "f4333f6e-e150-4ab1-9727-307d3f7b0974",
       "name": "线路4",
-      "url": "https://jx.77flv.cc/?url=",
+      "url": "https://jx.aidouer.net/?url=",
       "isActive": true
     },
     {
       "id": "c1e82ed1-32aa-428b-af1a-d4d14b889eeb",
       "name": "线路5",
-      "url": "https://www.playm3u8.cn/jiexi.php?url=",
+      "url": "https://www.8090g.cn/?url=",
       "isActive": true
     },
     {
       "id": "ecbe2b34-60d1-4bba-aef5-eebebb36ccc8",
       "name": "线路6",
-      "url": "https://yemu.xyz/?url=",
+      "url": "https://jx.yangtu.top?url=",
+      "isActive": true
+    },
+    {
+      "id": "8c8c2a5c-e698-469b-b5b5-8ff911d2af80",
+      "name": "线路7",
+      "url": "https://jx.m3u8.tv/jiexi/?url=",
+      "isActive": true
+    },
+    {
+      "id": "bb001bd6-8ac1-455f-84c6-07de4ae4ca15",
+      "name": "线路8",
+      "url": "https://www.ckplayer.vip/jiexi/?url=",
       "isActive": true
     }
   ],

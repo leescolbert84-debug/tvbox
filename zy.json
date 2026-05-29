@@ -173,7 +173,7 @@
     {
       "id": "8406f69a-9ecd-40e0-a66b-3316cb972f49",
       "name": "豆瓣资源",
-      "api": "https://caiji.dbzy.tv/api.php/provide/vod/",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/",
       "playUrl": "",
       "search": 1,
       "group": "切片",
